@@ -1,11 +1,16 @@
 _repo: Philippine-Folklore-Stories_10771
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Miller, John Maurice
     gutenberg_agent_id: '3675'
     url: http://www.gutenberg.org/2009/agents/3675
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10771#Philippine-Folklore-Stories
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
